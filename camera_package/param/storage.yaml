@@ -1,0 +1,3 @@
+/storage_path:
+  ros__parameters:
+    path: './src/camera_package/capture/'

@@ -1,0 +1,5 @@
+# CaptureCameraImage.srv
+sensor_msgs/Image image
+---
+bool success
+string message
