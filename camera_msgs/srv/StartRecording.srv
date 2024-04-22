@@ -1,0 +1,6 @@
+# 서비스 요청: 문자열로 특정 동작을 지정
+string command
+---
+# 서비스 응답
+bool success
+string message

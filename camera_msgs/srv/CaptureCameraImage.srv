@@ -1,0 +1,7 @@
+# Define a service for capturing camera images
+int32 width       # Width of the captured image
+int32 height      # Height of the captured image
+---
+bool success      # Indicates whether the image was captured successfully
+string message    # Additional message describing the result
+string file_path  # Path to the captured image file
